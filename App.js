@@ -1,8 +1,7 @@
 /**
- * Day 2
+ * @author jianghaoran 20181123
  * A weather app
- * Have trouble completing the animation part
- * will stçdy on the animation in later experiments
+ * But the web socket is not working on anymore
  */
 'use strict';
 
